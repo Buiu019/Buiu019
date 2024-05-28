@@ -6,6 +6,6 @@ Meu nome é Luiz Otavio 💙
  
 -Aprendendo Linguagens de Programações;
 
--Usando essa prataformas para compartilhamento de desenvolvido;
+-Usando essa prataformas para compartilhamento dos projetos desenvolvido;
 
 @Oliveira_Tavinho
