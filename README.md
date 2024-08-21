@@ -2,7 +2,7 @@
 
 Meu nome é Luiz Otavio 💙
 
--Estou estudando sobre Programção e desenvolvimento de sistema no aula;
+-Estou estudando sobre Programção e desenvolvimento de sistema no alura;
  
 -Aprendendo Linguagens de Programações;
 
